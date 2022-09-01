@@ -85,6 +85,16 @@ body {
   align-items: center;
 }
 
+.subtitle {
+  margin: 0;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 4;
+  font-family: "MS Sans Serif";
+  grid-area: title;
+  align-items: center;
+}
+
 .header__subtitle {
   color: #8B4513;
   font-weight: 400;
